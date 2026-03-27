@@ -1,0 +1,5 @@
+{
+  "name": "ClinicaHub MVP",
+  "description": "A comprehensive clinic management system with public booking, appointment scheduling, and role-based access control.",
+  "requestFramePermissions": []
+}
